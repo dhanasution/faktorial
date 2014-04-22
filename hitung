@@ -19,6 +19,6 @@ public class faktorial
         int hasil;
         hitung ht=new hitung();
         hasil=ht.hsl(7);
-        System.out.println("Hasil Faktorial = "+hasil);
+        System.out.println("Hasil Faktorial = "+hasil);;;;
     }
 }
